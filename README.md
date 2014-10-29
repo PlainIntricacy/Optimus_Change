@@ -7,9 +7,9 @@ Because I hate coins.
 
 ==============
 
-Input: Cost of transaction and amount ($) received.
+Input: Price and amount ($) received.
 
-Output: Change to be returned, using the least amount of bills and coins.
+Output: Change to be returned, using the least amount of US bills and coins.
 
 ==============
 
